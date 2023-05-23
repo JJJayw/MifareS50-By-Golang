@@ -1,4 +1,4 @@
-# MifareS50ByGolang
+# Mifare S50 ByGolang
 
 使用golang编程模拟Mifare S50
 
